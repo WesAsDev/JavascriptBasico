@@ -108,4 +108,31 @@ Quando o console executar, vai dizer que o algumacoisa foi declarada mas não te
 
 Ele sempre vai jogar a declaração da variável para cima, e atribuição a ela aonde tecnicamente declaramos no código.
 
-##
+## Comparadores:
+
+```js
+   == //compara os valores, por exemplo:
+     (1 == 1) //true
+     (1 == 2 ) //false
+   
+   != // Compara se um valor é diferente de outro:
+    (1 != 1) //false
+    (1 != 2) //true
+    
+   > < // Compara se o valor é maior ou menor que o outro:
+    
+    (1 > 1) //false
+    (1 > 0) //true
+    
+    (1 < 1) //false
+    (1 < 2) //true
+    
+   <= >=  //compara se um valor é menor/maior OU igual ao numero:
+   
+   (1 <= 1) //true
+   (1 <= 0) //false
+   
+   (1 >= 1) //true
+   (1 >= 2) //false
+  
+```
